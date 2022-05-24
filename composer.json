@@ -1,0 +1,10 @@
+{
+    "name": "robert/miniframework-php",
+    "authors": [
+        {
+            "name": "G8TI",
+            "email": "suporte@g8online.com.br"
+        }
+    ],
+    "require": {}
+}
